@@ -1,1 +1,3 @@
-# ohseven.github.io
+# o7 project
+
+hi there
